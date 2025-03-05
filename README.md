@@ -1,4 +1,4 @@
-#Disease Prediction Model Using Machine Learning
+<b>Disease Prediction Model Using Machine Learning
 This project focuses on predicting three common diseases: Heart Disease, Parkinson’s Disease, and Diabetes using machine learning models. The objective is to use various datasets and train models that can predict whether a person is at risk of any of these diseases based on their features and data inputs.
 
 #Overview
